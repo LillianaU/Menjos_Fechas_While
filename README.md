@@ -46,8 +46,8 @@ fechas, formatos de fecha , función, datetime, función sys, función os, manej
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=radical&hide_title=true" height="150" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=radical" height="150" alt="Top Languages"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=lillianaushow_icons=true&theme=radical&hide_title=true" height="150" alt="GitHub Stats"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lillianau&layout=compact&theme=radical" height="150" alt="Top Languages"/>
 </p>
 
 ---
@@ -55,8 +55,8 @@ fechas, formatos de fecha , función, datetime, función sys, función os, manej
 ## 📈 Analítica de Actividad
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=TU_USUARIO&theme=radical" />
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=TU_USUARIO&theme=github-compact" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lillianau&theme=radical" />
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=lillianau&theme=github-compact" />
 </p>
 
 ---
